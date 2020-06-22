@@ -3,7 +3,9 @@
 This is a repository which can be used to redeploy the challenges that we had conducted during ZenseCTF 2020. Steps to redeploy
 
 > git clone https://github.com/DaKeiser/zensectf.git
+
 > cd zensectf
+
 > ./redeploy.sh
 
 **Admins:**

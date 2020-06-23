@@ -11,7 +11,7 @@ cd zensectf
 Ports and Passwords can be found in challenge docker files
 
 **Contributors:**
-- Hemanth Chitti(Crypto)
+- Hemanth Chitti(Crypto & Misc.)
 - Kartik Sama(Bin-Exp & Reversing)
 - Pranav Vardia(Forensics)
 - Ruturaj Mohite(Web, Misc and Infrastructure)

@@ -5,8 +5,10 @@ This is a repository which can be used to redeploy the challenges that we had co
 ```sh
 git clone https://github.com/DaKeiser/zensectf.git
 cd zensectf
+./rebuild.sh
 ./redeploy.sh
 ```
+Ports and Passwords can be found in challenge docker files
 
 **Contributors:**
 - Hemanth Chitti(Crypto)

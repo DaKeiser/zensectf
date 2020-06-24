@@ -8,7 +8,7 @@ cd zensectf
 ./rebuild.sh
 ./redeploy.sh
 ```
-Ports and Passwords can be found in challenge docker files
+Ports and Passwords can be found in category's `docker-compose.yaml`
 
 **Contributors:**
 - Hemanth Chitti(Crypto & Misc.)
